@@ -6,8 +6,8 @@ Consider the following units for reference.
 Process Arrival time Burst Time 
 1	 0	 6 
 2	 3	 2 
-3 	 5 	 1 
-4 	 9 	 7 
+3  5 	 1 
+4   9 	 7 
 5 	10 	 5 
 6 	12 	 3 
 7 	14 	 4 
